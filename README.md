@@ -1,0 +1,2 @@
+# Java-IDE
+ Integrated Development Environment has the main objective of providing the user or the Java program developer the functionality to develop java software with ease and without the hassles of accessing the command prompt for debugging, compiling and the execution of our java software. It also has the prime objective to make the communication between the administrator and the user easy. One of the objectives that makes our project unique is the  function or facility to transfer the byte code directly via our application to anyone through  a gmail account gateway.  
